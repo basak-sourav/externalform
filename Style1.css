@@ -1,0 +1,215 @@
+body{
+    background-color: cyan;
+}
+.externalform
+{   
+    position:absolute;
+    background-color:skyblue ;
+    display: flex;
+    align-items: stretch;
+    height:80%;
+    width: 80%;    
+    padding:30px 30px;  
+    left:100px;
+    right:100px;
+   
+
+}
+.externalform #div1
+{
+    background-color: white;
+    margin:15px;
+    color:chartreuse;
+    height: 450px;
+    width: 400px;
+    left: 80px;
+    top:30px;
+    padding: 30px 30px;
+    position:absolute;
+   
+}
+.externalform #div2
+{
+    background-color: white;
+    margin: 15px;
+    color:crimson;
+    height: 450px;
+    width: 400px;
+    top:30px;
+    position:absolute;
+    padding: 30px 30px;
+    left:600px; 
+
+}
+.signin
+{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px 5px;
+    display: inline-block;
+    border:2px solid skyblue;
+    width:200px;
+    position: absolute;
+    left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.signup
+{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:5px 5px;
+    display: inline-block;
+    border:2px solid skyblue;
+    width:200px;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 200px;
+    background-color: rgb(23, 170, 228);
+    color: white;
+    
+}
+.facebook
+{   
+    position: absolute;
+    text-align: center;
+    top:100px;
+    width: 100px;
+    border:2px solid skyblue;
+    height: 40px;
+    left:60px;
+    border-radius: 5px;
+    color:white;
+    background-color: turquoise;
+
+}
+.google
+{
+    position: absolute;
+    text-align: center;
+    top:100px;
+    left:200px;
+    border:2px solid skyblue;
+    width:100px;
+    height:40px;
+    left: 250px;
+    border-radius: 5px;
+    background-color: tomato;
+    color:white;
+}
+.Email
+{
+    position: absolute;
+    top:200px;
+    left:20px;
+    border:2px solid skyblue;
+    width:400px;
+    height:40px;
+    border-radius: 5px;
+    
+    
+}
+
+.pass
+{
+    position: absolute;
+    top:250px;
+    left:10px;
+    border:2px solid skyblue;
+    width:400px;
+    height:40px;
+    border-radius: 5px;
+    margin:10px;
+
+}
+.button1
+{
+    position: absolute;
+    text-align: center;
+    top: 400px;
+    left:20px;
+    border:2px solid skyblue;
+    width:400px;
+    height:40px;
+    border-radius:5px;
+    background-color: rgb(36, 144, 187);
+    color:white;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+.signin1
+{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px 5px;
+    display: inline-block;
+    border:2px solid skyblue;
+    width:200px;
+    position: absolute;
+    left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color:  rgb(36, 144, 187);;
+}
+    
+.signup1
+{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:5px 5px;
+    display: inline-block;
+    border:2px solid skyblue;
+    width:202px;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 200px;
+    color:black;
+}
+.user
+{
+    position: absolute;
+    top:100px;
+    left:20px;
+    border:2px solid skyblue;
+    width:380px;
+    height:40px;
+    border-radius: 5px;
+}
+.Email1
+{
+    position: absolute;
+    top:160px;
+    left:2px;
+    border:2px solid skyblue;
+    width: 380px;
+    height:40px;
+    border-radius: 5px;
+    margin:20px;
+
+}
+.pass1
+{
+    position: absolute;
+    top: 260px;
+    border:2px solid skyblue;
+    width: 380px;
+    height:40px;
+    border-radius: 5px;
+      
+    left: 22px;
+}
+.button2
+{
+    position: absolute;
+    text-align: center;
+    top: 400px;
+    left:20px;
+    border:2px solid skyblue;
+    width:400px;
+    height:40px;
+    border-radius:5px;
+    background-color: rgb(36, 144, 187);
+    color:white;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
